@@ -1,0 +1,67 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+.namehighlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("F:/ProgrammingHero/web-portfolio/Images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-size: 700;
+}
+.dream-area{
+    background-image: url("F:/ProgrammingHero/web-portfolio/Images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 70%;
+}
+.experience-area {
+    background-image: url("F:/ProgrammingHero/web-portfolio/Images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#fullstack{
+    border-left: 7px solid ;
+    border-image: linear-gradient(#FFAB2C, #FA735D);
+    border-image-slice: 1;
+}
+#baby{
+    border-left: 7px solid ;
+    border-image: linear-gradient(#AEC0D6,#1C4465);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    color: gray;
+}
