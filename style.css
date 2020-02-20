@@ -22,7 +22,7 @@ h2{
     width: 100%;
 }
 .top-banner{
-    background-image: url("F:/ProgrammingHero/web-portfolio/Images/top-banner.png");
+    background-image: url("./Images/top-banner.png");
     background-repeat: no-repeat;
 }
 section{
@@ -37,7 +37,7 @@ section{
     font-size: 700;
 }
 .dream-area{
-    background-image: url("F:/ProgrammingHero/web-portfolio/Images/dream-bg.png");
+    background-image: url("./Images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -47,7 +47,7 @@ section{
     height: 70%;
 }
 .experience-area {
-    background-image: url("F:/ProgrammingHero/web-portfolio/Images/exp-bg.png");
+    background-image: url("./Images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
 }
